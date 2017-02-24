@@ -1,7 +1,7 @@
 ----------------------------------------------------------------
-Thu Feb 23 15:15:58 PST 2017:
-Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-015a-6d42-7a9a-00000d0a0e98 
-on database directory /Users/Mac/GitHub/Galvanize-Data-Leadership/week6-Finance/EDA/metastore_db with class loader org.apache.spark.sql.hive.client.IsolatedClientLoader$$anon$1@679c5600 
+Thu Feb 23 18:33:42 PST 2017:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-015a-6df7-8422-000013051c60 
+on database directory /Users/Mac/GitHub/Galvanize-Data-Leadership/week6-Finance/EDA/metastore_db with class loader org.apache.spark.sql.hive.client.IsolatedClientLoader$$anon$1@717cb20c 
 Loaded from file:/usr/local/Cellar/apache-spark/2.1.0/libexec/jars/derby-10.12.1.1.jar
 java.vendor=Oracle Corporation
 java.runtime.version=1.8.0_65-b17
